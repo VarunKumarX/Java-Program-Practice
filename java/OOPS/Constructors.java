@@ -14,9 +14,6 @@ class Student {
         System.out.println("Student's Object has been created");
     }
 
-//hellllllllllllllllllllllllljuhgsidvighsuvdgsigvss
-
-
     Student (int id, String name){ // Parameterized Constructor
         this.id = id;
         this.name = name;
